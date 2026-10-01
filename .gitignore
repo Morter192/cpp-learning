@@ -1,0 +1,10 @@
+# Службові файли macOS
+.DS_Store
+
+# Скомпільовані програми
+main
+a.out
+*.o
+*.out
+*.exe
+*.dSYM/
