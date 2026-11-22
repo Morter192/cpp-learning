@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    /* Реалізуй алгоритм із task.md. */
+    puts("Hello, Mac!");
     return 0;
 }

@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main(void) {
-    puts("Починаю вивчати C");
+int a, b;
+scanf("%d %d", &a, &b);
+int area = a * b;
+printf("%d\n", area);
     return 0;
 }
